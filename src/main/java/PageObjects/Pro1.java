@@ -9,7 +9,11 @@ public class Pro1 {
         System.out.println("Hello");
     }
 
-    public void test2(){
-        System.out.println("Hello?");
+    public void test4(){
+        System.out.println("Rahul?");
+    }
+
+    public void test3(){
+        System.out.println("Apoorv?");
     }
 }
