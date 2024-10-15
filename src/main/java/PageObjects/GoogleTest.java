@@ -35,6 +35,7 @@ public class GoogleTest {
         for(String str1:str){
             System.out.println(str1);
         }
+        System.out.println("Hello123");
         driver.quit();
     }
 }
